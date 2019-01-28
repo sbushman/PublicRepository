@@ -1,0 +1,31 @@
+---
+title: "TeamTest"
+author: "Serge Bushman"
+date: "1/28/2019"
+output: html_document
+---
+
+
+#Alex will create a string that represent's his creativity
+```{r}
+Alex <- "Create String here"
+Alex
+
+```
+
+
+#Alice will create a string that represents her creativity
+```{r} 
+Alice <- "Create String here"
+Alice
+
+```
+
+#Serge will create a string that represents his creativity
+```{r}
+> Serge <- "Create String here"
+> Serge
+```
+
+
+
